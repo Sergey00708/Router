@@ -1,0 +1,19 @@
+{
+    "name": "sergey/router",
+    "description": "router",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sergey\\Router\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sergey",
+            "email": "Fenix00708@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
